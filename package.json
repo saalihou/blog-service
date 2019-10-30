@@ -14,7 +14,7 @@
     "restify": "^8.4.0",
     "restify-await-promise": "^2.1.0",
     "restify-jwt": "^0.4.0",
-    "sequelize": "^5.12.3",
+    "sequelize": "^5.15.1",
     "soap": "^0.29.0",
     "soap-server": "^0.1.0"
   }
